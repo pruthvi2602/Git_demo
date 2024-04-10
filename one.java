@@ -1,3 +1,4 @@
 class Simple{  
-    int x;
+    var  x:Int;  //instance variable
+
 }  
